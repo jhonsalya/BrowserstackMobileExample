@@ -4,11 +4,11 @@
   "access_key": "gyNrxhsc1QDVBmLuEBtJ",
 
   "capabilities": {
-    "project": "First TestNg Android Project",
-    "build": "TestNg Android First",
-    "name": "first_test",
+    "project": "Second TestNg Android Project",
+    "build": "TestNg Android Second",
+    "name": "second_test",
     "browserstack.debug": true,
-    "app": "bs://639bd853f0cec13ff34b922c9419d7449a4a24b6"
+    "app": "bs://f15a0b290a9a464bb10d311cfed96c7c3c11c813"
   },
   "environments": [
     { 
